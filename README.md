@@ -38,3 +38,5 @@ Feel free to use any of the following examples as inspiration:
 
 * Bring in custom fonts using Google Fonts: https://fonts.google.com/
 * Add multiple pages to your site by creating more `.html` files that are linked to from your `index.html`
+
+This will be difficult for me.
